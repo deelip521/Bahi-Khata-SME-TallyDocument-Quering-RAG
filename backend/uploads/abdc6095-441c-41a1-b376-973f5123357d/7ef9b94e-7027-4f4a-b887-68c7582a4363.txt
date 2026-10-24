@@ -1,0 +1,13 @@
+INVOICE
+
+Invoice Number: INV-001
+Company: Demo Traders
+Customer: Ravi Stores
+Date: 24 October 2026
+
+Item: Office supplies
+Quantity: 10
+Unit Price: 500
+Total Amount: 5000
+
+Payment Status: Unpaid
