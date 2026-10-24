@@ -1,0 +1,6 @@
+{
+  "name": "Bahi-Khata Tally RAG - SME Ledger & Document Intelligence",
+  "description": "AI-powered RAG document querying system for Indian SME Bahi-Khata, Tally Daybooks, vouchers, GST tax compliance, and party ledgers with citations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
